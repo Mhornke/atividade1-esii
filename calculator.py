@@ -1,3 +1,4 @@
+import math
 # returns the sum of the two parameters
 def sum(v1, v2):
     pass
@@ -20,7 +21,7 @@ def mult(v1, v2):
 
 # returns the square root of the received parameter
 def square(v1):
-    pass
+    return math.sqrt(v1)
 
 
 print(mult(5, 3))
