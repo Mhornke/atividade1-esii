@@ -23,6 +23,6 @@ def mult(v1, v2):
 def square(v1):
      pass
 
-
+print(int(square(4)))
 print(mult(5, 3))
 print(div(5, 3))
