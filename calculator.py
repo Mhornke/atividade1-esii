@@ -24,5 +24,4 @@ def square(v1):
     return math.sqrt(v1)
 
 
-print(mult(5, 3))
-print(div(10, 2))
+print(int(square(4)))
