@@ -11,7 +11,7 @@ def sub(v1, v2):
 
 # returns the division of the two parameters
 def div(v1, v2):
- return v1 / v2
+ pass
 
 
 # returns the multiplication of the two parameters
@@ -25,4 +25,3 @@ def square(v1):
 
 
 print(mult(5, 3))
-print(div(10, 2))
