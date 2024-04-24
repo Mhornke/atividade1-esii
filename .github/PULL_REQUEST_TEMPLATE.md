@@ -1,6 +1,11 @@
 # Descrição
 Adicionar aqui uma descrição do que foi feito.
 
+Foi adicionado a função de multipricação pela branch feature/funcaoMultiplicacao
+
+Foi adicionado a função de Divisão pela branch feature/funcaoDivsao
+
+
 Ex.:
 Adiciona módulo de mensagens com remetente, destinatário e vinculado a uma solicitação.
 
