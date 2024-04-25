@@ -1,7 +1,7 @@
 import math
 # returns the sum of the two parameters
 def sum(v1, v2):
-    pass
+    return v1 + v2
 
 
 # returns the subtraction of the two parameters
@@ -23,6 +23,7 @@ def mult(v1, v2):
 def square(v1):
      pass
 
+print(sum(5, 3))
 print(int(square(4)))
 print(mult(5, 3))
 print(div(5, 3))
