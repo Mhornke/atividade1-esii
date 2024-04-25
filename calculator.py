@@ -21,7 +21,7 @@ def mult(v1, v2):
 
 # returns the square root of the received parameter
 def square(v1):
-     pass
+     return math.sqrt(v1)
 
 print(sum(5, 3))
 print(int(square(4)))
