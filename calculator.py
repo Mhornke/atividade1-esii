@@ -23,4 +23,4 @@ def square(v1):
     pass
 
 
-print(mult(5, 3))
+print(sum(5, 3))
